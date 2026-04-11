@@ -3,7 +3,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose-Material3-purple.svg)](https://developer.android.com/jetpack/compose)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean--MVVM-green.svg)](https://developer.android.com/topic/architecture)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🎯 Vision et Mission du Projet
 
