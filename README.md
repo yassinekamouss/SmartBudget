@@ -105,13 +105,10 @@ Pour compiler et déployer l'application sur un environnement de test :
 
 ---
 
-## 📜 Licence & Droits
-
-Ce projet est distribué sous la licence **MIT**. Toute utilisation académique ou professionnelle doit citer l'auteur original.
+## Auteur
 
 **Auteur** : [Yassine Kamouss](https://github.com/yassinekamouss)
 **Formation** : Cycle Ingénieur LSI, Faculté des Sciences et Techniques (FST) de Tanger.
-**Date de Soutenance** : 15 Mai 2026.
 
 ---
 
