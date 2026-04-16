@@ -106,8 +106,8 @@ Pour compiler et déployer l'application sur un environnement de test :
 
 ## Auteur
 
-**Auteur** : [Yassine Kamouss](https://github.com/yassinekamouss)
-**Formation** : Cycle Ingénieur LSI, Faculté des Sciences et Techniques (FST) de Tanger.
+- **Auteur** : [Yassine Kamouss](https://github.com/yassinekamouss)
+- **Formation** : Cycle Ingénieur LSI, Faculté des Sciences et Techniques (FST) de Tanger.
 
 ---
 
